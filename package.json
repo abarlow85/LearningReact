@@ -27,6 +27,8 @@
     "jquery": "^2.2.1",
     "script-loader": "^0.6.1",
     "style-loader": "^0.13.0",
-    "webpack": "^1.12.13"
+    "webpack": "^1.12.13",
+    "sass-loader": "^4.1.0",
+    "node-sass": "^4.0.0"
   }
 }
